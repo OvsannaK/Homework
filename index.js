@@ -53,7 +53,7 @@ console.log (`${aa} ${bb}`)
 
 let a1 = 8, 
    b1 = 12;  
-                        //Bitwise operator ^
+                        //Bitwise operator 
    a1 = a1 ^ b1;
 
    b1= a1 ^ b1;
